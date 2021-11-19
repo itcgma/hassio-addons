@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "slug": "dss_voip_test",
   "url": "https://github.com/itcgma/hassio-addons/tree/master/dss_voip_long",
-  "description": "VoIP Notifier for Home Assistant - LONG DURATION",
+  "description": "description VoIP Notifier for Home Assistant - dss_voip_long",
   "arch": ["aarch64", "amd64", "armhf", "armv7", "i386"],
   "startup": "application",
   "stdin": true,
