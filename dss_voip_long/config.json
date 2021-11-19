@@ -1,5 +1,5 @@
 {
-  "name": "DSS VoIP Notifier - LONG DURATION",
+  "name": "DSS VoIP Notifier - dss_voip_long",
   "version": "0.0.1",
   "slug": "dss_voip_test",
   "url": "https://github.com/itcgma/hassio-addons/tree/master/dss_voip_long",
