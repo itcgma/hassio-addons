@@ -1,6 +1,6 @@
 {
   "name": "DSS VoIP Notifier - dss_voip_long",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "slug": "dss_voip_test",
   "url": "https://github.com/itcgma/hassio-addons/tree/master/dss_voip_long",
   "description": "description VoIP Notifier for Home Assistant - dss_voip_long",
