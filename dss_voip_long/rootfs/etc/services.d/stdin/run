@@ -97,7 +97,7 @@ if [ "$SIP_PARAMETERS" -gt "0" ]; then
       echo "--local-port 0"                                >> /share/dss_voip_test/dss_autoanswer.conf
       echo "--null-audio"                                  >> /share/dss_voip_test/dss_autoanswer.conf
       echo "--auto-play"                                   >> /share/dss_voip_test/dss_autoanswer.conf
-      echo "--play-file /share/dss_voip_test/autoanswer.mp3"           >> /share/dss_voip_test/dss_autoanswer.conf
+      echo "--play-file /share/dss_voip_test/autoanswer.wav"           >> /share/dss_voip_test/dss_autoanswer.conf
       echo "--duration 30"                                 >> /share/dss_voip_test/dss_autoanswer.conf
       echo "--auto-answer 200"                             >> /share/dss_voip_test/dss_autoanswer.conf
       
